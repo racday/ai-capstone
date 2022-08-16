@@ -3,7 +3,7 @@
 __pycache__
 *.pytest_cache
 .gitattributes
-!*.zip
-!*.db
-!*.sqlite
-im.db
+*.zip
+*.db
+*.sqlite
+im.db/
