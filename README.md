@@ -101,3 +101,5 @@ Performing analysis showed us that Computing Vision should release Animated movi
 index.ipnyb - main notebook with our statistical analysis.
 
 zippedData - Folder that contains the data sources.
+
+sandbox - contains files for early EDA
