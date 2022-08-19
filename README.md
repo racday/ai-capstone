@@ -98,8 +98,10 @@ Performing analysis showed us that Computing Vision should release Animated movi
 
 ## Repository
 
-index.ipnyb - main notebook with our statistical analysis.
+index.ipynb - main notebook with our statistical analysis.
 
 zippedData - Folder that contains the data sources.
 
-sandbox - contains files for early EDA
+sandbox - Contains files for early EDA.
+
+gitignore - Blocks local files from being added to the repository. 
