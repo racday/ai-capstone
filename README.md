@@ -2,12 +2,13 @@
 
 ## Overview
 
-Using Breast Cancer Tumor data from the State of Wisconsin, the goal of this study was to develop a model that will predict Malignant tumors with the highest possible accuracy. After using ____ techniques on the data, the model was able to return an accuracy rate of ___.
+Using Breast Cancer Tumor data from the State of Wisconsin, the goal of this study was to develop a model that will predict Malignant tumors with the highest possible accuracy, and lowest level of false negatives. After using Logistic Regression, Decision Tree and Random Forest techniques on the data, the model was able to return an accuracy rate of ___.
 
 ![image](./PDF/national-cancer-institute-NbZQYileaOI-unsplash.jpg)
 
 
 ## Business Understanding and Data Understanding
+
 
 Explain the project context, using at least one citation to demonstrate your domain understanding
 Consider including visualizations here as well
@@ -30,7 +31,5 @@ Reproduction instructions (or a link to them)
 index.ipynb - main notebook containing cleaning and modeling.
 
 zippedData - Folder that contains the data sources.
-
-sandbox - Contains files for early EDA.
 
 gitignore - Blocks local files from being added to the repository. 
