@@ -2,7 +2,7 @@
 
 ## Overview
 
-Using Breast Cancer Tumor data from the State of Wisconsin, the goal of this study was to develop a model that will predict Malignant tumors with the highest possible accuracy, and lowest level of false negatives. After using Logistic Regression, Decision Tree and Random Forest techniques on the data, the model was able to return an accuracy rate of ___.
+Using Breast Cancer Tumor data from the State of Wisconsin, the goal of this study was to develop a model that will predict Malignant tumors with the highest possible accuracy, and lowest level of false negatives. After using Logistic Regression, Decision Tree and Random Forest techniques on the data, the Logistic Regression model was able to return an accuracy rate of 94% and a recall of 95%, which was the best I was able to find.
 
 ![image](./PDF/national-cancer-institute-NbZQYileaOI-unsplash.jpg)
 
